@@ -1,7 +1,9 @@
 # 🌿 LeafyLife - A Gardening Lover’s Platform
 
 **Live Site:** [🌐 Visit LeafyLife](https://leafylife-green.web.app/)
+
 **Client Repo:** [GitHub - LeafyLife Client](https://github.com/IFTI-KAR/LeafyLife-client-side-A-gardening-lover-s-platform-)
+
 **Server Repo:** [GitHub - LeafyLife Server](https://github.com/IFTI-KAR/LeafyLife-server-side-A-gardening-lover-s-platform)
 
 ---
